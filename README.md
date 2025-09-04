@@ -6,4 +6,4 @@ Conflict Resolution
 
 * I refuse to join any club that would have me as a member. - Groucho Marx
 
-"Artificial intelligence is no match for natural stupidity."
+Artificial intelligence is no match for natural stupidity
