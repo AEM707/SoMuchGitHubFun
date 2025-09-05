@@ -3,6 +3,4 @@ Conflict Resolution
 
 ## Funny Quotes of the day!
 
-* I refuse to join any club that would have me as a member. - Groucho Marx
-* Give up liberty for security and end up with neither. - Benjamin Franklin
-* “Education is what one does after he has forgotten everything he learned at school.” - Albert Einstein
+🧠 "Artificial intelligence is no match for natural stupidity."
